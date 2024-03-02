@@ -35,3 +35,7 @@ Voeg hier een foto van de laatste regels in F8 toe, zodat we kunnen controleren 
 
 **Logs**
 Het zou ook handig zijn om een logbestand naar Reinier te sturen. Dit kan je doen door op de F8 knop te drukken, vervolgens op de blauwe knop rechts "Open log" te klikken en het bestand naar Reinier te sturen, samen met de link naar de issue op GitHub. [Discord Profiel](https://discord.com/users/528557003770167297)
+
+
+**Discord**
+Wat is je discord? zo kunnen we je achteraf bereiken als we nog wat vragen over deze bug hebben.
