@@ -1,9 +1,21 @@
-# HDC_Development
-Welkom bij het Hulpdiensten Centraal (HDC) Repository!
+# Hulpdiensten Centraal Repository
 
-Hier moedigen we alle gebruikers aan om problemen, bugs, suggesties en verbeteringen hier op GitHub te plaatsen, zodat ons team ze snel en efficiënt kan oppakken.
+Welkom bij de Hulpdiensten Centraal repository! Dit is de plek waar je kunt bijdragen door eventuele problemen die je tegenkomt in het spel te melden. Jouw feedback helpt ons verbeteren en zorgt voor een soepele game-ervaring voor iedereen.
 
-Jouw bijdragen helpen ons om de server flink te verbeteren. Dank voor je betrokkenheid en ondersteuning!
+## Hoe bij te dragen
 
-Hartelijke groeten,
-Het HDC-team
+Als je een bug hebt gevonden, of problemen wilt melden die verband houden met het spel, maak dan een nieuw probleem aan in deze repository. Zorg ervoor dat je zoveel mogelijk details verstrekt, zodat we het probleem effectief kunnen begrijpen en aanpakken.
+
+## Sluit je aan bij onze gemeenschap
+
+- **Hulpdiensten Centraal Discord Server:** [Discord Link](https://discord.gg/uaShN3KZrv)
+  Sluit je aan bij onze Discord-server om in contact te komen met andere spelers, op de hoogte te blijven van het laatste nieuws en deel te nemen aan discussies over het spel.
+
+## Neem contact op
+
+- **Discord:** passievruchtnl / [Discord Profiel](https://discord.com/users/528557003770167297)
+-  **Discord:** bramsmeijer / [Discord Profiel](https://discord.com/users/245555320447827978)
+-   **Discord:** danielbroekriem / [Discord Profiel](https://discord.com/users/352660102622478336)
+  Voel je vrij om direct contact met me op te nemen als je vragen hebt of hulp nodig hebt.
+
+Bedankt voor je steun en bijdragen aan het nog beter maken van Hulpdiensten Centraal!
