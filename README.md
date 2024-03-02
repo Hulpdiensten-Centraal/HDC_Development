@@ -17,6 +17,9 @@ Als je een bug hebt gevonden, of problemen wilt melden die verband houden met he
 - **Discord:** passievruchtnl / [Discord Profiel](https://discord.com/users/528557003770167297)
 -  **Discord:** bramsmeijer / [Discord Profiel](https://discord.com/users/245555320447827978)
 -   **Discord:** danielbroekriem / [Discord Profiel](https://discord.com/users/352660102622478336)
-  Voel je vrij om direct contact met me op te nemen als je vragen hebt of hulp nodig hebt.
+
+
+
+    el je vrij om direct contact met ons op te nemen als je vragen hebt of hulp nodig hebt.
 
 Bedankt voor je steun en bijdragen aan het nog beter maken van Hulpdiensten Centraal!
