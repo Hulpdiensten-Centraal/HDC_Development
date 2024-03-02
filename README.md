@@ -9,6 +9,7 @@ Als je een bug hebt gevonden, of problemen wilt melden die verband houden met he
 ## Sluit je aan bij onze gemeenschap
 
 - **Hulpdiensten Centraal Discord Server:** [Discord Link](https://discord.gg/uaShN3KZrv)
+  
   Sluit je aan bij onze Discord-server om in contact te komen met andere spelers, op de hoogte te blijven van het laatste nieuws en deel te nemen aan discussies over het spel.
 
 ## Neem contact op
