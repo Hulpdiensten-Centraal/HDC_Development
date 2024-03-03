@@ -1,7 +1,7 @@
 ---
 name: Bug Report HDC
 about: Maak een bug report aan om een fout te melden.
-title: "[BUG]"
+title: "[BUG] [VUL HIER DE TITEL IN]"
 labels: bug
 assignees: ''
 
@@ -26,6 +26,7 @@ Indien van toepassing, voeg screenshots toe om het probleem uit te leggen.
 - Cache al geleegd? [Ja/Nee]
 - Komt dit op een speciale locatie voor? [bijv. P81]
 - Staat er een error in F8? [Ja/Nee]
+- Hebben andere hier ook last van? [Ja/Nee]
 
 **Foto van F8**
 Voeg hier een foto van de laatste regels in F8 toe, zodat we kunnen controleren of het om een fout in een script gaat.
